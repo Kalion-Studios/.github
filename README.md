@@ -1,2 +1,2 @@
 # .github
-About k=Kalion Studios
+About Kalion Studios
