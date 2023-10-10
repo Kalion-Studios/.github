@@ -4,6 +4,6 @@
 
 ### We make Games.
 
-## >Current Projects:
+## Current Projects:
 
 ### Onalyx Engine - Our own Game Engine that we will use to make games.
