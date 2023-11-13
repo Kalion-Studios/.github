@@ -2,8 +2,8 @@
 
 ## About us:
 
-### We make Games.
+<p>We make Games.</p>
 
 ## Current Projects:
 
-### Onalyx Engine - Our own Game Engine that we will use to make games.
+<p>Onalyx Engine - Our own Game Engine that we will use to make games.</p>
