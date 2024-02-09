@@ -16,3 +16,4 @@
 <p>PurpleBlox - A Custom Bootstrapper For Roblox (Basically BloxStrap)</p>
 <p>Electrum Aurora - A Completely Open-Source VR Headset</p>
 
+(C) Kalion Software and Kalion Studios. All Rights Reserved.
