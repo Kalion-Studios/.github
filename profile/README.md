@@ -10,5 +10,3 @@
 <p>Escape From Takoa - A Horror Game Made With Unreal Engine 5.3.2</p>
 <p>Day And Night - A 3D FPS Game Made With Unreal Engine 5.3.2</p>
 <p>Voxy - A Voxel Game That's Kinda Like Teardown</p>
-
-(C) Kalion Software and Kalion Studios. All Rights Reserved.
